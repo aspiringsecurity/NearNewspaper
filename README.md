@@ -3,7 +3,7 @@ Near Newspaper is a Near on-chain editor where you could type and format your te
 
 We wish to create a Near-powered authoring and self-publishing platform to support the development of community newspapers and publications on Near blockchain, thereby encouraging the development of an eco-system based on the foundation of sharing of ideas and active collaboration among the community members. 
 
-Near Blockchain-powered solution Features:
+# Near Blockchain-powered solution Features
 
 1. Content design and formatting capabilities.
 2. Five sets of newspaper templates.
@@ -13,7 +13,7 @@ Near Blockchain-powered solution Features:
 6. Ability to share your newspapers with other community members and get feedback on Near blockchain.
 
 
-Near Blockchain Usage and Development:
+# Near Blockchain Usage and Development
 
 We have built Near Newspaper using Javascript, HTML5 and CSS on the front-end and Near Blockchain:
 
