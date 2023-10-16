@@ -1,5 +1,5 @@
-# Near Newspaper
-Near Newspaper is a Near on-chain editor where you could type and format your text and ideas, play with colors, fonts & images, export, share and collect feedback on your newspaper on Near blockchain.
+# Near InDesign
+Near InDesign is a Near on-chain editor where you could type and format your text and ideas, play with colors, fonts & images, export, share and collect feedback on your newspaper on Near blockchain.
 
 We wish to create a Near-powered authoring and self-publishing platform to support the development of community newspapers and publications on Near blockchain, thereby encouraging the development of an eco-system based on the foundation of sharing of ideas and active collaboration among the community members. 
 
